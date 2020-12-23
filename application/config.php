@@ -248,7 +248,7 @@ return [
     ],
     //wx 配置
     'wx'                     => [
-        'app_id'    => 'wxafa6e55371bfb7ce',//wx2742d61d77debffd
-        'secret'    => '36a8dea98aa83c7b9a296bdb39320a1e'//3f22c0465fd7102a8d99206a9a2b6a92
+        'app_id'    => '',
+        'secret'    => ''
     ]
 ];
